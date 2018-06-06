@@ -1,0 +1,27 @@
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\bin\Debug\Recommented.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\bin\Debug\Recommented.exe
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\bin\Debug\Recommented.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.exe
+c:\users\dell\documents\visual studio 2013\Projects\Recommented\Recommented\obj\Debug\Recommented.pdb
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\bin\Debug\Recommented.exe.config
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.exe
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.pdb
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\bin\Debug\Recommented.exe
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\bin\Debug\Recommented.pdb
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.csprojResolveAssemblyReference.cache
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.Form1.resources
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.Properties.Resources.resources
+D:\TEO TEO\STUDY\TIN\Đồ án 1\Recommented-giao-dien\Recommented\Recommented\obj\Debug\Recommented.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\bin\Debug\Recommented.exe.config
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.exe
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.pdb
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\bin\Debug\Recommented.exe
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\bin\Debug\Recommented.pdb
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.Form1.resources
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.Properties.Resources.resources
+C:\Users\DELL\Desktop\bt\Recommented\Recommented\obj\Debug\Recommented.csproj.GenerateResource.Cache
